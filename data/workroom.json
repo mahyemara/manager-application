@@ -1,0 +1,14 @@
+{
+    "name": "My Pets",
+    "animals": [{
+        "vaccines": [
+            "influenza",
+            "herpes",
+            "leukemia"
+        ],
+        "name": "hi",
+        "health": "premium",
+        "type": "cat",
+        "age": 12
+    }]
+}

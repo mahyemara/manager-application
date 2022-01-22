@@ -1,0 +1,11 @@
+{
+  "animals": [
+    {
+      "name": "toothless",
+      "age": 10,
+      "type": "cat",
+      "health": "notBasicPremiumOrNull"
+    }
+  ],
+  "name": "My Animals"
+}

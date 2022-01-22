@@ -1,0 +1,19 @@
+{
+    "name": "My Animals",
+    "animals": [
+        {
+            "vaccines": [],
+            "name": "toothless",
+            "health": "premium",
+            "type": "cat",
+            "age": 10
+        },
+        {
+            "vaccines": [],
+            "name": "toothless",
+            "health": "basic",
+            "type": "bird",
+            "age": 11
+        }
+    ]
+}
