@@ -20,18 +20,4 @@ access my cat's important health information easily!
 insurance type. 
 - As a user, I want to be able to save my pets list to file
 - As a user, I want to be able to be able to load my pets list from file 
-
-
-## Phase 4: Task 2
- - Test and design a class in your model package that is robust: 
- Class and method that have a robust design: Animal class, updateHealthInsurance method.
- 
-## Phase 4: Task 3
- - Remove assocation between PetOwnerGUI and LoadTab, so that all Tabs
- extend Tab, and then Tab class alone would associate with PetOwnerGUI. 
- - I would put the method called nextInput that belongs to the Add Class in another class called Input. 
- That is because Remove and Update are associated with the Add Class, and it would be better
- if all three (Add, Update, Remove) were associated with an Input class instead, given that the Remove 
- and Update classes do not actually need the function of adding new pets to the list of pets. 
- - 
  
